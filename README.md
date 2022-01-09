@@ -1,4 +1,4 @@
-   ### Hola, I'm Saura Mandal! 👋
+![enter image description here](https://www.coolgenerator.com/Others/text_design_dl/text/SG9sYSEgSSBhbSBTYXVyYQ==/font/en0005/size/80/color/c0ffee)
 
 - 🔭 I’m currently working as a Software Developer
 - 😄 Pronouns: "He/His"
