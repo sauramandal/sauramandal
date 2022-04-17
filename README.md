@@ -1,6 +1,6 @@
 ![enter image description here](https://www.coolgenerator.com/Others/text_design_dl/text/SG9sYSEgSSBhbSBTYXVyYQ==/font/en0005/size/80/color/c0ffee)
 
-- 🔭 I’m currently working as a Software Developer
+- 🔭 Software Engineer
 - 😄 Pronouns: "He/His"
 - 🌱 I’m currently learning Dart and scaling stuffs for various Business Solutions
 - 👯 I’m looking to collaborate on Twitter, LinkedIn
