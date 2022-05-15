@@ -2,7 +2,7 @@
 
 - 🔭 Software Engineer
 - 😄 Pronouns: "He/His"
-- 🌱 I’m currently learning Dart and scaling stuffs for various Business Solutions
+- 🌱 I’m currently diving into Next.js, Supabase, Ionic with Typescript
 - 👯 I’m looking to collaborate on Twitter, LinkedIn
 - 💬 Ask me about Javascript, ReactJS
 
