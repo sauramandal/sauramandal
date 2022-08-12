@@ -15,4 +15,4 @@
 📫 Feel free to reach out to me on: 
 > [Twitter](https://twitter.com/montai24) |
 > [LinkedIn](https://www.linkedin.com/in/saura-mandal/)
-- ⚡ Fun fact: An out of context Instagrammer! 😁
+- ⚡ Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=saura-mandal 😁
