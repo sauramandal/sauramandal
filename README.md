@@ -1,7 +1,6 @@
 ![enter image description here](https://www.coolgenerator.com/Others/text_design_dl/text/SG9sYSEgSSBhbSBTYXVyYQ==/font/en0005/size/80/color/c0ffee)
 
 - 🔭 Software Engineer
-- 😄 Pronouns: "He/His"
 - 🌱 I’m currently diving into Next.js, Supabase, Ionic with Typescript
 - 👯 I’m looking to collaborate on Twitter, LinkedIn
 - 💬 Ask me about Javascript, ReactJS
